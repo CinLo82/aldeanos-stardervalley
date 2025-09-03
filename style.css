@@ -210,6 +210,19 @@ button:hover {
     display: none; /* Oculta encabezados en móvil */
   }
 
+  /* Corazones en versión móvil: fuerza color negro y rojo según estado */
+@media (max-width: 600px) {
+  .hearts span {
+    color: #222 !important; /* negro por defecto */
+    background: none;
+    text-shadow: none;
+  }
+  .hearts span.done {
+    color: #ff4b5c !important; /* rojo */
+    text-shadow: 1px 1px #b34047;
+  }
+}
+
   /* Etiquetas para cada celda */
   tbody#villagersTable td:nth-child(1)::before { content: "Nombre: "; font-weight: bold; }
   tbody#villagersTable td:nth-child(2)::before { content: "Corazones: "; font-weight: bold; }
