@@ -21,6 +21,24 @@ function resetHearts() {
 }
 document.getElementById("resetHearts").addEventListener("click", resetHearts);
 
+// Funciones para guardar y recuperar regalos
+function getGiftStatus(id, giftIndex) {
+    return localStorage.getItem(`gift_${id}_${giftIndex}`) === "true";
+}
+
+function setGiftStatus(id, giftIndex, value) {
+    localStorage.setItem(`gift_${id}_${giftIndex}`, value);
+}
+
+// Reset de regalos
+function resetGifts() {
+    Object.keys(localStorage).forEach(key => {
+        if (key.startsWith("gift_")) localStorage.removeItem(key);
+    });
+    renderVillagers();
+}
+document.getElementById("resetGifts").addEventListener("click", resetGifts);
+
 // Cargar aldeanos JSON
 // Ejemplo de manejo de error al cargar aldeanos
 async function loadVillagers() {
@@ -91,14 +109,19 @@ async function renderVillagers() {
         tr.appendChild(tdHearts);
 
         // Checks de regalos
-        for (let i = 0; i < 2; i++) {
-            const tdGift = document.createElement("td");
-            const div = document.createElement("div");
-            div.classList.add("check");
-            div.addEventListener("click", () => div.classList.toggle("done"));
-            tdGift.appendChild(div);
-            tr.appendChild(tdGift);
-        }
+       for (let i = 0; i < 2; i++) {
+        const tdGift = document.createElement("td");
+        const div = document.createElement("div");
+        div.classList.add("check");
+        if (getGiftStatus(id, i)) div.classList.add("done");
+        div.addEventListener("click", () => {
+            const newStatus = !getGiftStatus(id, i);
+            setGiftStatus(id, i, newStatus);
+            div.classList.toggle("done", newStatus);
+        });
+        tdGift.appendChild(div);
+        tr.appendChild(tdGift);
+    }
 
         // Notas y mejores regalos (imágenes de recetas)
         const tdNotes = document.createElement("td");

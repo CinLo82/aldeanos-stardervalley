@@ -70,15 +70,16 @@ td img:hover {
 
 /* Corazones */
 .hearts span {
-  cursor: pointer;
+  color: #222; /* negro por defecto */
   font-size: 24px;
+  cursor: pointer;
   user-select: none;
   margin: 2px;
   transition: transform 0.2s, color 0.2s;
 }
 
 .hearts span.done {
-  color: #ff4b5c;
+  color: #ff4b5c; /* rojo */
   text-shadow: 1px 1px #b34047;
 }
 
@@ -125,6 +126,16 @@ button:hover {
   transform: translateY(-2px);
 }
 
+/* Botones en fila y separados */
+.buttons-row {
+  display: flex;
+  gap: 24px;
+  margin-top: 25px;
+}
+
+.buttons-row button {
+  margin-top: 0;
+}
 /* Tabla de recetas: igual que la principal */
 .recipes-table th,
 .recipes-table td {
