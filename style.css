@@ -1,124 +1,124 @@
 /* General */
 body {
-  background-color: #f5e6d3;
-  font-family: 'Press Start 2P', monospace;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 20px;
-  color: #4b3b2a;
+    background-color: #f5e6d3;
+    font-family: 'Press Start 2P', monospace;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    color: #4b3b2a;
 }
 
 /* Título */
 h1 {
-  margin-bottom: 20px;
-  font-size: 24px;
-  color: #8b5a2b;
-  text-shadow: 2px 2px #f0c27b;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #8b5a2b;
+    text-shadow: 2px 2px #f0c27b;
 }
 
 /* Tabla principal y recetas */
 table,
 .recipes-table {
-  width: 100%;
-  max-width: 1100px;
-  border-collapse: separate;
-  border-spacing: 0;
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
-  margin-bottom: 20px;
+    width: 100%;
+    max-width: 1100px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    margin-bottom: 20px;
 }
 
 /* Encabezado */
 th {
-  background: linear-gradient(145deg, #e6a65c, #f0c27b);
-  color: #fff;
-  font-size: 14px;
-  padding: 15px 20px;
-  text-align: center;
-  text-shadow: 1px 1px #8b5a2b;
+    background: linear-gradient(145deg, #e6a65c, #f0c27b);
+    color: #fff;
+    font-size: 14px;
+    padding: 15px 20px;
+    text-align: center;
+    text-shadow: 1px 1px #8b5a2b;
 }
 
 /* Celdas */
 td {
-  background-color: #fff3e6;
-  border-bottom: 1px solid #e0c097;
-  padding: 15px 20px;
-  text-align: center;
-  vertical-align: middle;
+    background-color: #fff3e6;
+    border-bottom: 1px solid #e0c097;
+    padding: 15px 20px;
+    text-align: center;
+    vertical-align: middle;
 }
 
 /* Alternar filas */
 tbody tr:nth-child(even) td {
-  background-color: #fff0d9;
+      background-color: #fff0d9;
 }
 
 /* Imágenes de aldeanos, regalos y recetas */
 td img {
-  width: 48px;
-  height: 48px;
-  vertical-align: middle;
-  margin-right: 8px;
-  border-radius: 8px;
-  transition: transform 0.2s;
+    width: 48px;
+    height: 48px;
+    vertical-align: middle;
+    margin-right: 8px;
+    border-radius: 8px;
+    transition: transform 0.2s;
 }
 
 td img:hover {
-  transform: scale(1.1);
+    transform: scale(1.1);
 }
 
 /* Corazones */
 .hearts span {
-  color: #222; /* negro por defecto */
-  font-size: 24px;
-  cursor: pointer;
-  user-select: none;
-  margin: 2px;
-  transition: transform 0.2s, color 0.2s;
+    color: #222; /* negro por defecto */
+    font-size: 24px;
+    cursor: pointer;
+    user-select: none;
+    margin: 2px;
+    transition: transform 0.2s, color 0.2s;
 }
 
 .hearts span.done {
-  color: #ff4b5c; /* rojo */
-  text-shadow: 1px 1px #b34047;
+    color: #ff4b5c; /* rojo */
+    text-shadow: 1px 1px #b34047;
 }
 
 .hearts span:hover {
-  transform: scale(1.3);
+      transform: scale(1.3);
 }
 
 /* Casillas de regalos */
 .check {
-  width: 25px;
-  height: 25px;
-  border: 2px solid #d1a06a;
-  display: inline-block;
-  background-color: #fff8dc;
-  cursor: pointer;
-  border-radius: 5px;
-  transition: background 0.2s, transform 0.2s;
+    width: 25px;
+    height: 25px;
+    border: 2px solid #d1a06a;
+    display: inline-block;
+    background-color: #fff8dc;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background 0.2s, transform 0.2s;
 }
 
 .check.done {
-  background-color: #4caf50;
+    background-color: #4caf50;
 }
 
 .check:hover {
-  transform: scale(1.2);
+    transform: scale(1.2);
 }
 
 /* Botón reset */
 button {
-  background: linear-gradient(145deg, #e6a65c, #f0c27b);
-  border: none;
-  padding: 12px 25px;
-  font-family: 'Press Start 2P', monospace;
-  font-size: 14px;
-  cursor: pointer;
-  border-radius: 10px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-  transition: background 0.3s, transform 0.2s;
-  margin-top: 25px;
+    background: linear-gradient(145deg, #e6a65c, #f0c27b);
+    border: none;
+    padding: 12px 25px;
+    font-family: 'Press Start 2P', monospace;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    transition: background 0.3s, transform 0.2s;
+    margin-top: 25px;
 }
 
 button:hover {
@@ -128,47 +128,47 @@ button:hover {
 
 /* Botones en fila y separados */
 .buttons-row {
-  display: flex;
-  gap: 24px;
-  margin-top: 25px;
+    display: flex;
+    gap: 24px;
+    margin-top: 25px;
 }
 
 .buttons-row button {
-  margin-top: 0;
+      margin-top: 0;
 }
 /* Tabla de recetas: igual que la principal */
 .recipes-table th,
 .recipes-table td {
-  background-color: inherit;
-  border-bottom: 1px solid #e0c097;
-  padding: 15px 20px;
-  text-align: center;
-  vertical-align: middle;
+    background-color: inherit;
+    border-bottom: 1px solid #e0c097;
+    padding: 15px 20px;
+    text-align: center;
+    vertical-align: middle;
 }
 
 .recipes-table th {
-  background: linear-gradient(145deg, #e6a65c, #f0c27b);
-  color: #fff;
-  font-size: 14px;
-  text-align: center;
-  text-shadow: 1px 1px #8b5a2b;
+    background: linear-gradient(145deg, #e6a65c, #f0c27b);
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    text-shadow: 1px 1px #8b5a2b;
 }
 
 .recipes-table tbody tr:nth-child(even) td {
-  background-color: #fff0d9;
+      background-color: #fff0d9;
 }
 
 .recipes-table td img {
-  width: 48px;
-  height: 48px;
-  vertical-align: middle;
-  margin-right: 8px;
-  border-radius: 8px;
-  transition: transform 0.2s;
+    width: 48px;
+    height: 48px;
+    vertical-align: middle;
+    margin-right: 8px;
+    border-radius: 8px;
+    transition: transform 0.2s;
 }
 
 .recipes-table td img:hover {
-  transform: scale(1.1);
+      transform: scale(1.1);
 }
 
 
@@ -183,50 +183,49 @@ button:hover {
 }
 
 @media (max-width: 600px) {
-  tbody#villagersTable,
-  tbody#villagersTable tr,
-  tbody#villagersTable td {
-    display: block;
-    width: 100%;
-    box-sizing: border-box;
-  }
+    tbody#villagersTable,
+    tbody#villagersTable tr,
+    tbody#villagersTable td {
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+    }
 
-  tbody#villagersTable tr {
-    margin-bottom: 18px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-    border-radius: 10px;
-    background: #fff3e6;
-    padding: 10px 0;
-  }
+    tbody#villagersTable tr {
+        margin-bottom: 18px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        border-radius: 10px;
+        background: #fff3e6;
+        padding: 10px 0;
+    }
 
-  tbody#villagersTable td {
-    text-align: left;
-    padding: 8px 12px;
-    border-bottom: none;
-    position: relative;
-  }
+    tbody#villagersTable td {
+        text-align: left;
+        padding: 8px 12px;
+        border-bottom: none;
+        position: relative;
+    }
 
-  thead {
-    display: none; /* Oculta encabezados en móvil */
-  }
+    thead {
+        display: none; /* Oculta encabezados en móvil */
+    }
 
-  /* Corazones en versión móvil: fuerza color negro y rojo según estado */
-@media (max-width: 600px) {
-  .hearts span {
-    color: #222 !important; /* negro por defecto */
-    background: none;
-    text-shadow: none;
-  }
-  .hearts span.done {
-    color: #ff4b5c !important; /* rojo */
-    text-shadow: 1px 1px #b34047;
-  }
-}
+    /* Corazones en versión móvil: fuerza color negro y rojo según estado */
 
-  /* Etiquetas para cada celda */
-  tbody#villagersTable td:nth-child(1)::before { content: "Nombre: "; font-weight: bold; }
-  tbody#villagersTable td:nth-child(2)::before { content: "Corazones: "; font-weight: bold; }
-  tbody#villagersTable td:nth-child(3)::before { content: "Regalo 1: "; font-weight: bold; }
-  tbody#villagersTable td:nth-child(4)::before { content: "Regalo 2: "; font-weight: bold; }
-  tbody#villagersTable td:nth-child(5)::before { content: "Mejores: "; font-weight: bold; }
+    .hearts span {
+        color: #222 !important; /* negro por defecto */
+        background: none;
+        text-shadow: none;
+    }
+    .hearts span.done {
+        color: #ff4b5c !important; /* rojo */
+        text-shadow: 1px 1px #b34047;
+    }
+
+    /* Etiquetas para cada celda */
+    tbody#villagersTable td:nth-child(1)::before { content: "Nombre: "; font-weight: bold; }
+    tbody#villagersTable td:nth-child(2)::before { content: "Corazones: "; font-weight: bold; }
+    tbody#villagersTable td:nth-child(3)::before { content: "Regalo 1: "; font-weight: bold; }
+    tbody#villagersTable td:nth-child(4)::before { content: "Regalo 2: "; font-weight: bold; }
+    tbody#villagersTable td:nth-child(5)::before { content: "Mejores: "; font-weight: bold; }
 }
