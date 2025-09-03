@@ -1,0 +1,382 @@
+{
+      
+    "alex": {
+        "name": "Alex",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/0/04/Alex.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/8/8b/Salmon_Dinner.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3d/Complete_Breakfast.png/36px-Complete_Breakfast.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c2/Jack_Be_Nimble%2C_Jack_Be_Thick.png/36px-Jack_Be_Nimble%2C_Jack_Be_Thick.png",
+            "https://stardewvalleywiki.com/mediawiki/images/1/1b/Field_Snack.png",
+            "https://stardewvalleywiki.com/mediawiki/images/a/a1/Dinosaur_Egg.png"
+        ]
+    },
+    "elliott": {
+        "name": "Elliott",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/b/bd/Elliott.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1b/Pomegranate.png/36px-Pomegranate.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9f/Lobster.png/36px-Lobster.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f9/Duck_Feather.png/36px-Duck_Feather.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3b/Tom_Kha_Soup.png/36px-Tom_Kha_Soup.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/a/ac/Squid_Ink.png/36px-Squid_Ink.png"
+        ]
+    },
+    "harvey": {
+        "name": "Harvey",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/9/95/Harvey.png",
+        "gifts": [
+           "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3d/Truffle_Oil.png/36px-Truffle_Oil.png",
+           "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e9/Coffee.png/36px-Coffee.png",
+           "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c7/Pickles.png/36px-Pickles.png",
+           "https://stardewvalleywiki.com/mediawiki/images/thumb/6/69/Wine.png/36px-Wine.png",
+           "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d2/Super_Meal.png/36px-Super_Meal.png"
+        ]
+    },
+    "sam": {
+        "name": "Sam",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/9/94/Sam.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Cactus_Fruit.png/36px-Cactus_Fruit.png",
+            "https://stardewvalleywiki.com/mediawiki/images/1/18/Maple_Bar.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6e/Tigerseye.png/36px-Tigerseye.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f4/Pizza.png/36px-Pizza.png",
+            "https://stardewvalleywiki.com/mediawiki/images/d/d5/Joja_Cola.png"
+        ]
+    },
+    "sebastian": {
+        "name": "Sebastian",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/a/a8/Sebastian.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/2/23/Green_Frog_Egg.png/36px-Green_Frog_Egg.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/5/58/Void_Egg.png/36px-Void_Egg.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ec/Frozen_Tear.png/36px-Frozen_Tear.png",
+            "https://stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png",
+            "https://stardewvalleywiki.com/mediawiki/images/5/59/Pumpkin_Soup.png"
+        ]
+    },
+    "shane": {
+        "name": "Shane",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Shane.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/0/08/Pepper_Poppers.png/36px-Pepper_Poppers.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b3/Beer.png/36px-Beer.png",
+            "https://stardewvalleywiki.com/mediawiki/images/0/08/Pepper_Poppers.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f4/Pizza.png/36px-Pizza.png"
+        ]
+    },
+    "abigail": {
+        "name": "Abigail",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/8/88/Abigail.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2e/Amethyst.png/36px-Amethyst.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/6/64/Pumpkin.png/36px-Pumpkin.png",
+            "https://stardewvalleywiki.com/mediawiki/images/f/f2/Spicy_Eel.png",
+            "https://stardewvalleywiki.com/mediawiki/images/8/87/Chocolate_Cake.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/b/ba/Pufferfish.png/36px-Pufferfish.png"
+        ]
+    },
+    "emily": {
+        "name": "Emily",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/2/28/Emily.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2e/Amethyst.png/36px-Amethyst.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6a/Emerald.png/36px-Emerald.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a2/Aquamarine.png/36px-Aquamarine.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7e/Jade.png/36px-Jade.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/3/34/Wool.png/36px-Wool.png"
+
+        ]
+    },
+    "haley": {
+        "name": "Haley",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Haley.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Coconut.png/36px-Coconut.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/8/81/Sunflower.png/36px-Sunflower.png",
+            "https://stardewvalleywiki.com/mediawiki/images/9/9e/Fruit_Salad.png",
+            "https://stardewvalleywiki.com/mediawiki/images/3/32/Pink_Cake.png",
+            "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png"
+        ]
+
+    },
+    "leah": {
+        "name": "Leah",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/e/e6/Leah.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/7/7e/Salad.png",
+            "https://stardewvalleywiki.com/mediawiki/images/0/0a/Vegetable_Medley.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c8/Goat_Cheese.png/36px-Goat_Cheese.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f2/Truffle.png/36px-Truffle.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/6/69/Wine.png/36px-Wine.png"
+
+        ]
+    },
+    "maru": {
+        "name": "Maru",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Maru.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/Cauliflower.png/36px-Cauliflower.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6d/Strawberry.png/36px-Strawberry.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ea/Diamond.png/36px-Diamond.png",
+            "https://stardewvalleywiki.com/mediawiki/images/6/6e/Cheese_Cauliflower.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4e/Gold_Bar.png/36px-Gold_Bar.png"
+        ]
+    },
+    "penny": {
+        "name": "Penny",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/a/ab/Penny.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/3/37/Poppy.png/36px-Poppy.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ea/Diamond.png/36px-Diamond.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6a/Emerald.png/36px-Emerald.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/1/19/Melon.png/36px-Melon.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bb/Sandfish.png/36px-Sandfish.png"
+
+        ]
+    },
+    "caroline": {
+        "name": "Caroline",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/8/87/Caroline.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/3/32/Tropical_Curry.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9f/Summer_Spangle.png/36px-Summer_Spangle.png",
+            "https://stardewvalleywiki.com/mediawiki/images/d/d5/Fish_Taco.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8f/Green_Tea.png/36px-Green_Tea.png",
+            "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
+
+        ]
+    },
+    "clint": {
+        "name": "Clint",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/3/31/Clint.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2e/Amethyst.png/36px-Amethyst.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6a/Emerald.png/36px-Emerald.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a2/Aquamarine.png/36px-Aquamarine.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7e/Jade.png/36px-Jade.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a5/Topaz.png/36px-Topaz.png"
+        ]
+    },
+    "demetrius": {
+        "name": "Demetrius",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/f/f9/Demetrius.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/e/ec/Rice_Pudding.png",
+            "https://stardewvalleywiki.com/mediawiki/images/2/24/Bean_Hotpot.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6d/Strawberry.png/36px-Strawberry.png",
+            "https://stardewvalleywiki.com/mediawiki/images/5/5d/Ice_Cream.png",
+            "https://stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png"
+        ]
+    },
+    "enano": {
+        "name": "Enano",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Dwarf.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2e/Amethyst.png/36px-Amethyst.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6a/Emerald.png/36px-Emerald.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a2/Aquamarine.png/36px-Aquamarine.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7e/Jade.png/36px-Jade.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a5/Topaz.png/36px-Topaz.png"
+        ]
+    },
+    "evelyn": {
+        "name": "Evelyn",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/8/8e/Evelyn.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ea/Diamond.png/36px-Diamond.png",
+            "https://stardewvalleywiki.com/mediawiki/images/8/87/Chocolate_Cake.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/0/06/Raisins.png/36px-Raisins.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a4/Beet.png/36px-Beet.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5c/Fairy_Rose.png/36px-Fairy_Rose.png"
+
+        ]
+    },
+    "george": {
+        "name": "George",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/7/78/George.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/5/57/Leek.png/36px-Leek.png",
+            "https://stardewvalleywiki.com/mediawiki/images/4/4a/Fried_Mushroom.png",
+            "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png"
+
+        ]
+    },
+    "gus": {
+        "name": "Gus",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/5/52/Gus.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/3/32/Tropical_Curry.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ea/Diamond.png/36px-Diamond.png",
+            "https://stardewvalleywiki.com/mediawiki/images/7/78/Escargot.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/4/43/Orange.png/36px-Orange.png",
+            "https://stardewvalleywiki.com/mediawiki/images/d/d5/Fish_Taco.png"
+        ]
+    },
+    "jas": {
+        "name": "Jas",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/5/55/Jas.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/3/32/Pink_Cake.png",
+            "https://stardewvalleywiki.com/mediawiki/images/a/a0/Plum_Pudding.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5c/Fairy_Rose.png/36px-Fairy_Rose.png",
+            "https://stardewvalleywiki.com/mediawiki/images/c/c0/Ancient_Doll.png",
+            "https://stardewvalleywiki.com/mediawiki/images/2/2f/Coconut.png"
+        ]
+    },
+    "jodi": {
+        "name": "Jodi",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/4/41/Jodi.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/8/87/Chocolate_Cake.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ea/Diamond.png/36px-Diamond.png",
+            "https://stardewvalleywiki.com/mediawiki/images/2/21/Rhubarb_Pie.png",
+            "https://stardewvalleywiki.com/mediawiki/images/7/73/Eggplant_Parmesan.png",
+            "https://stardewvalleywiki.com/mediawiki/images/6/6b/Pancakes.png"
+
+
+        ]
+    },
+    "kent": {
+        "name": "Kent",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/9/99/Kent.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/1/18/Roasted_Hazelnuts.png",
+            "https://stardewvalleywiki.com/mediawiki/images/2/2d/Fiddlehead_Risotto.png",
+            "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png",
+            "https://stardewvalleywiki.com/mediawiki/images/a/a7/Dwarvish_Safety_Manual.png"
+        ]
+    },
+    "krobus": {
+        "name": "Krobus",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/7/71/Krobus.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/6/64/Pumpkin.png/36px-Pumpkin.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ea/Diamond.png/36px-Diamond.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/5/58/Void_Egg.png/36px-Void_Egg.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f3/Void_Mayonnaise.png/36px-Void_Mayonnaise.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/9/90/Wild_Horseradish.png/36px-Wild_Horseradish.png"
+        ]
+    },
+    "leo": {
+        "name": "Leo",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Leo.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c3/Ostrich_Egg.png/36px-Ostrich_Egg.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/3/38/Mango.png/36px-Mango.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f9/Duck_Feather.png/36px-Duck_Feather.png",
+            "https://stardewvalleywiki.com/mediawiki/images/f/f1/Poi.png",
+            "https://stardewvalleywiki.com/mediawiki/images/c/c6/Spice_Berry.png"
+        ]
+    },
+    "lewis": {
+        "name": "Lewis",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/2/2b/Lewis.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/f/f4/Autumn%27s_Bounty.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f1/Hot_Pepper.png/36px-Hot_Pepper.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8f/Green_Tea.png/36px-Green_Tea.png",
+            "https://stardewvalleywiki.com/mediawiki/images/3/30/Glazed_Yams.png",
+            "https://stardewvalleywiki.com/mediawiki/images/9/9e/Blueberry.png"
+        ]
+    },
+    "Linus": {
+        "name": "Linus",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/3/31/Linus.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Coconut.png/36px-Coconut.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Cactus_Fruit.png/36px-Cactus_Fruit.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/5/52/Yam.png/36px-Yam.png",
+            "https://stardewvalleywiki.com/mediawiki/images/9/9b/Blueberry_Tart.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3a/The_Alleyway_Buffet.png/36px-The_Alleyway_Buffet.png"
+        ]
+    },    
+    "marnie": {
+        "name": "Marnie",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/5/52/Marnie.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/3/32/Pink_Cake.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ea/Diamond.png/36px-Diamond.png",
+            "https://stardewvalleywiki.com/mediawiki/images/7/7d/Pumpkin_Pie.png",
+            "https://stardewvalleywiki.com/mediawiki/images/7/79/Farmer%27s_Lunch.png",
+            "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
+        ]
+    },  
+    "pam": {
+        "name": "Pam",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/d/da/Pam.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b3/Beer.png/36px-Beer.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/7/78/Pale_Ale.png/36px-Pale_Ale.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Cactus_Fruit.png/36px-Cactus_Fruit.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Parsnip.png/36px-Parsnip.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/8/84/Mead.png/36px-Mead.png"
+        ]
+    },
+    "pierre": {
+        "name": "Pierre",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/7/7e/Pierre.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/2/25/Fried_Calamari.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d5/Price_Catalogue.png/36px-Price_Catalogue.png",
+            "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png",
+            "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png"
+        ]
+    },
+    "rasmudius": {
+        "name": "Rasmodius",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Wizard.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f4/Solar_Essence.png/36px-Solar_Essence.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1f/Void_Essence.png/36px-Void_Essence.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/d/df/Book_of_Mysteries.png/36px-Book_of_Mysteries.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4b/Purple_Mushroom.png/36px-Purple_Mushroom.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d5/Super_Cucumber.png/36px-Super_Cucumber.png"
+        ]
+    },
+    "robin": {
+        "name": "Robin",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Robin.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8b/Woody%27s_Secret.png/36px-Woody%27s_Secret.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e2/Peach.png/36px-Peach.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c8/Goat_Cheese.png/36px-Goat_Cheese.png",
+            "https://stardewvalleywiki.com/mediawiki/images/e/ed/Hardwood.png",
+            "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
+        ]
+    },
+    "sandy": {
+        "name": "Sandy",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/4/4e/Sandy.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Crocus.png/36px-Crocus.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d9/Sweet_Pea.png/36px-Sweet_Pea.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4b/Daffodil.png/36px-Daffodil.png",
+            "https://stardewvalleywiki.com/mediawiki/images/3/34/Wool.png",
+            "https://stardewvalleywiki.com/mediawiki/images/f/fa/Large_Goat_Milk_ES.png"
+        ]
+    },
+    "vincent": {
+        "name": "Vincent",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Vincent.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/3/32/Pink_Cake.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d2/Snail.png/36px-Snail.png",
+            "https://stardewvalleywiki.com/mediawiki/images/9/9d/Cranberry_Candy.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c2/Grape.png/36px-Grape.png",
+            "https://stardewvalleywiki.com/mediawiki/images/2/2f/Coconut.png"
+        ]
+    },
+    "willy": {
+        "name": "Willy",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/8/82/Willy.png",
+        "gifts": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/6/64/Pumpkin.png/36px-Pumpkin.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ea/Diamond.png/36px-Diamond.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/8/84/Mead.png/36px-Mead.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Sea_Cucumber.png/36px-Sea_Cucumber.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4e/Gold_Bar.png/36px-Gold_Bar.png"
+        ]
+    }
+}
+

@@ -1,0 +1,375 @@
+{
+    "salmon dinner": {
+        "name": "Salmon",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Salmon_Dinner.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e0/Salmon.png/36px-Salmon.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f6/Amaranth.png/36px-Amaranth.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png"
+        ]
+    },
+    "breakfast complet": {
+        "name": "Desayuno completo",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Complete_Breakfast.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/1/18/Fried_Egg.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/9/92/Milk.png/36px-Milk.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8f/Hashbrowns.png/36px-Hashbrowns.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6b/Pancakes.png/36px-Pancakes.png"
+            
+        ]
+    },
+    "Papas hash brown": {
+        "name": "Patata fritas",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Hashbrowns.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/c/c2/Potato.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/0/06/Oil.png/36px-Oil.png"
+        ]
+    },
+    "huevo frito": {
+        "name": "Huevo frito",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/1/18/Fried_Egg.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/0/01/Brown_Egg.png"
+        ]
+    },
+    "pancakes": {
+        "name": "Panqueques",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Pancakes.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2c/Wheat_Flour.png/36px-Wheat_Flour.png",
+            "https://stardewvalleywiki.com/mediawiki/images/0/01/Brown_Egg.png"
+        ]
+    },
+    "pasteles de cangrejos": {
+        "name": "Pasteles de cangrejos",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3b/Tom_Kha_Soup.png/36px-Tom_Kha_Soup.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/6/63/Crab.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2c/Wheat_Flour.png/36px-Wheat_Flour.png",
+            "https://stardewvalleywiki.com/mediawiki/images/0/01/Brown_Egg.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/0/06/Oil.png/24px-Oil.png"
+        ]
+    },
+    "barras de cereal": {
+        "name": "Barras de cereal",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Field_Snack.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/c/cd/Acorn.png",
+            "https://stardewvalleywiki.com/mediawiki/images/3/36/Maple_Seed.png",
+            "https://stardewvalleywiki.com/mediawiki/images/9/90/Pine_Cone.png"
+        ]
+    },
+    "super comida": {
+        "name": "Super comida",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d2/Super_Meal.png/36px-Super_Meal.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/4/40/Bok_Choy.png",
+            "https://stardewvalleywiki.com/mediawiki/images/6/6e/Cranberries.png",
+            "https://stardewvalleywiki.com/mediawiki/images/d/dd/Artichoke.png"
+        ]
+    },
+    "barra de arce": {
+        "name": "Barra de arce",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/1/18/Maple_Bar.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/6/6a/Maple_Syrup.png",
+            "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sugar.png",
+            "https://stardewvalleywiki.com/mediawiki/images/2/2c/Wheat_Flour.png"
+        ]
+    },
+     "pizza": {
+        "name": "Pizza",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f4/Pizza.png/36px-Pizza.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/2/2c/Wheat_Flour.png",
+            "https://stardewvalleywiki.com/mediawiki/images/9/9d/Tomato.png",
+            "https://stardewvalleywiki.com/mediawiki/images/a/a5/Cheese.png"
+
+        ]
+    },
+    "sashimi": {
+        "name": "Sashimi",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e0/Salmon.png/36px-Salmon.png"
+        ]
+    },
+    "sopa de calabaza": {
+        "name": "Sopa de calabaza",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/5/59/Pumpkin_Soup.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png",
+            "https://stardewvalleywiki.com/mediawiki/images/9/92/Milk.png"
+        ]
+    },
+    "poppers de pimiento": {
+        "name": "Pimientos rellenos",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/0/08/Pepper_Poppers.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/f/f1/Hot_Pepper.png",
+            "https://stardewvalleywiki.com/mediawiki/images/a/a5/Cheese.png"
+        ]
+    },
+    "angila picante": {
+        "name": "Anguila picante",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/f/f2/Spicy_Eel.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/9/91/Eel.png",
+            "https://stardewvalleywiki.com/mediawiki/images/f/f1/Hot_Pepper.png"
+
+        ]
+    },
+    "pastel de chocolate": {
+        "name": "Pastel de chocolate",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/8/87/Chocolate_Cake.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sugar.png",
+            "https://stardewvalleywiki.com/mediawiki/images/2/2c/Wheat_Flour.png",
+            "https://stardewvalleywiki.com/mediawiki/images/0/01/Brown_Egg.png"
+        ]
+    },
+    "pastel rosa": {
+        "name": "Pastel rosa",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/3/32/Pink_Cake.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/1/19/Melon.png",
+            "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sugar.png",
+            "https://stardewvalleywiki.com/mediawiki/images/2/2c/Wheat_Flour.png",
+            "https://stardewvalleywiki.com/mediawiki/images/0/01/Brown_Egg.png"
+        ]
+    },
+    "ensalada de frutas": {
+        "name": "Ensalada de frutas",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/9/9e/Fruit_Salad.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/9/9e/Blueberry.png",
+            "https://stardewvalleywiki.com/mediawiki/images/1/19/Melon.png",
+            "https://stardewvalleywiki.com/mediawiki/images/f/fc/Apricot.png"
+        ]
+    },
+    "ensalada": {
+        "name": "Ensalada",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/7/7e/Salad.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/5/57/Leek.png",
+            "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png",
+            "https://stardewvalleywiki.com/mediawiki/images/f/fe/Vinegar.png"
+        ]
+    },
+    "mezcla de vegetales": {
+        "name": "Mezcla de vegetales",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/0/0a/Vegetable_Medley.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/9/9d/Tomato.png",
+            "https://stardewvalleywiki.com/mediawiki/images/a/a4/Beet.png"
+        ]
+    },
+    "coliflor con queso": {
+        "name": "Coliflor con queso",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Cheese_Cauliflower.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/a/aa/Cauliflower.png",
+            "https://stardewvalleywiki.com/mediawiki/images/a/a5/Cheese.png"
+        ]
+    },
+    "curry tropical": {
+        "name": "Curry tropical",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/3/32/Tropical_Curry.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/2/2f/Coconut.png",
+            "https://stardewvalleywiki.com/mediawiki/images/f/fb/Pineapple.png",
+            "https://stardewvalleywiki.com/mediawiki/images/f/f1/Hot_Pepper.png"
+
+        ]
+    },
+    "taco de pescado": {
+        "name": "Taco de pescado",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/d/d5/Fish_Taco.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/c/c5/Tuna.png",
+            "https://stardewvalleywiki.com/mediawiki/images/d/d7/Tortilla.png",
+            "https://stardewvalleywiki.com/mediawiki/images/2/2d/Red_Cabbage.png",
+            "https://stardewvalleywiki.com/mediawiki/images/4/4e/Mayonnaise.png"
+        ]
+    },
+    "tortilla de maíz": {
+        "name": "Tortilla de maíz",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/d/d7/Tortilla.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/f/f8/Corn.png"
+        ]
+    },
+    "estofado de frijoles": {
+        "name": "Estofado de frijoles",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/2/24/Bean_Hotpot.png",
+        "ingredients": [
+           "https://stardewvalleywiki.com/mediawiki/images/5/5c/Green_Bean.png",
+           "https://stardewvalleywiki.com/mediawiki/images/5/5c/Green_Bean.png"
+        ]
+    },
+    "arroz con leche": {
+        "name": "Arroz con leche",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/e/ec/Rice_Pudding.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/9/92/Milk.png/36px-Milk.png",
+            "https://stardewvalleywiki.com/mediawiki/images/d/da/Rice.png",
+            "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sugar.png"
+        ]
+    },
+    "helado": {
+        "name": "Helado",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/5/5d/Ice_Cream.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/9/92/Milk.png/36px-Milk.png",
+            "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sugar.png"
+        ]
+    },
+    "champiñones fritos": {
+        "name": "Champiñones fritos",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/4/4a/Fried_Mushroom.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png",
+            "https://stardewvalleywiki.com/mediawiki/images/b/b1/Morel.png",
+            "https://stardewvalleywiki.com/mediawiki/images/0/06/Oil.png"
+        ]
+    },
+    "caracoles": {
+        "name": "Caracoles",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/7/78/Escargot.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png",
+            "https://stardewvalleywiki.com/mediawiki/images/c/cc/Garlic.png"
+        ]
+    },
+    "pudin de ciruela": {
+        "name": "Pudin de ciruela",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/a/a0/Plum_Pudding.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/3/3b/Wild_Plum.png",
+            "https://stardewvalleywiki.com/mediawiki/images/3/3b/Wild_Plum.png",
+            "https://stardewvalleywiki.com/mediawiki/images/thumb/9/92/Milk.png/36px-Milk.png",
+            "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sugar.png"
+        ]
+    },
+    "pastel de ruibarbo": {
+        "name": "Pastel de ruibarbo",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/2/21/Rhubarb_Pie.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/6/6e/Rhubarb.png",
+            "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sugar.png",
+            "https://stardewvalleywiki.com/mediawiki/images/2/2c/Wheat_Flour.png"
+        ]
+    },
+    "berenjena a la parmesana": {
+        "name": "Berenjena a la parmesana",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/7/73/Eggplant_Parmesan.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/8/8f/Eggplant.png",
+            "https://stardewvalleywiki.com/mediawiki/images/9/9d/Tomato.png"
+
+        ]
+    },
+    "avellana tostadas": {
+        "name": "Avellana tostadas",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/1/18/Roasted_Hazelnuts.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/3/31/Hazelnut.png",
+            "https://stardewvalleywiki.com/mediawiki/images/3/31/Hazelnut.png",
+            "https://stardewvalleywiki.com/mediawiki/images/3/31/Hazelnut.png"
+        ]
+    },
+    "risoto de helecho": {
+        "name": "Risoto de helecho",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/2/2d/Fiddlehead_Risotto.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/0/06/Oil.png",
+            "https://stardewvalleywiki.com/mediawiki/images/4/48/Fiddlehead_Fern.png",
+            "https://stardewvalleywiki.com/mediawiki/images/c/cc/Garlic.png"
+        ]
+    },
+    "poi": {
+        "name": "Poi",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Poi.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/0/01/Taro_Root.png",
+            "https://stardewvalleywiki.com/mediawiki/images/0/01/Taro_Root.png",
+            "https://stardewvalleywiki.com/mediawiki/images/0/01/Taro_Root.png",
+            "https://stardewvalleywiki.com/mediawiki/images/0/01/Taro_Root.png"
+        ]
+    },
+    "cosecha de otoño": {
+        "name": "Cosecha de otoño",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/f/f4/Autumn%27s_Bounty.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/5/52/Yam.png",
+            "https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png"
+        ]
+    },
+    "ñames glaseados": {
+        "name": "Ñames glaseados",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/3/30/Glazed_Yams.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/5/52/Yam.png",
+            "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sugar.png"
+        ]
+    },
+    "tarta de arándanos": {
+        "name": "Tarta de arándanos",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/9/9b/Blueberry_Tart.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/9/9e/Blueberry.png",
+            "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sugar.png",
+            "https://stardewvalleywiki.com/mediawiki/images/2/2c/Wheat_Flour.png",
+            "https://stardewvalleywiki.com/mediawiki/images/0/01/Brown_Egg.png"
+        ]
+    },
+    "almuerzo del granjero": {
+        "name": "Almuerzo del granjero",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/7/79/Farmer%27s_Lunch.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/1/12/Omelet.png",
+            "https://stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png"
+
+        ]
+    },
+    "omelet": {
+        "name": "Tortilla",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/1/12/Omelet.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/0/01/Brown_Egg.png",
+            "https://stardewvalleywiki.com/mediawiki/images/9/92/Milk.png"
+        ]
+    },
+    "pastel de calabaza": {
+        "name": "Pastel de calabaza",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Pumpkin_Pie.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png",
+            "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sugar.png",
+            "https://stardewvalleywiki.com/mediawiki/images/2/2c/Wheat_Flour.png",
+            "https://stardewvalleywiki.com/mediawiki/images/9/92/Milk.png"
+        ]
+    },
+    "calamares fritos": {
+        "name": "Calamares fritos",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/2/25/Fried_Calamari.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/8/81/Squid.png",
+            "https://stardewvalleywiki.com/mediawiki/images/2/2c/Wheat_Flour.png",
+            "https://stardewvalleywiki.com/mediawiki/images/0/06/Oil.png"
+        ]
+    },
+    "caramelo de grosellas": {
+        "name": "Caramelo de grosellas",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/9/9d/Cranberry_Candy.png",
+        "ingredients": [
+            "https://stardewvalleywiki.com/mediawiki/images/6/6e/Cranberries.png",
+            "https://stardewvalleywiki.com/mediawiki/images/7/7d/Apple.png",
+            "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sugar.png"
+        ]
+
+    }
+
+}
