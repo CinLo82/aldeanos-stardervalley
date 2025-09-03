@@ -1,23 +1,32 @@
-# aldeanos-stardervalley
+# 🎁 aldeanos-stardervalley
 
-Tracker de regalos y amistad para aldeanos de Stardew Valley.
+¡Lleva tu amistad con los aldeanos de Stardew Valley al siguiente nivel!  
+Organiza, consulta y gestiona los mejores regalos para cada personaje, todo desde una app web rápida y sencilla.
 
-## Descripción
+[🌐 ¡Probar ahora!](https://stardervalleyregalos.netlify.app/)
 
-Esta aplicación web te permite llevar el seguimiento de los regalos y la amistad con los aldeanos del juego Stardew Valley. Puedes marcar los regalos semanales, ver los mejores regalos para cada aldeano y consultar las recetas elaboradas con sus ingredientes.
+---
 
-## Características
+## 🚜 ¿Qué es esto?
 
-- Visualiza todos los aldeanos y sus mejores regalos.
-- Marca los regalos entregados cada semana.
-- Guarda el progreso de corazones y regalos en el navegador.
-- Consulta recetas y sus ingredientes.
-- Restablece el progreso de amistad con un solo clic.
+**aldeanos-stardervalley** es tu asistente personal para Stardew Valley: marca los regalos semanales, consulta recetas y nunca olvides qué le gusta a cada aldeano. ¡Ideal para completistas y fans del juego!
 
-## Instalación
+---
 
-1. Clona el repositorio o descarga los archivos.
-2. Instala las dependencias de desarrollo:
+## ✨ Características
+
+- 🏆 Lista completa de aldeanos y sus regalos favoritos.
+- ✅ Marca los regalos entregados cada semana.
+- 💖 Guarda tu progreso de corazones y regalos en el navegador.
+- 🍳 Consulta recetas y sus ingredientes.
+- 🔄 Restablece tu progreso con un solo clic.
+
+---
+
+## 🚀 Instalación rápida
+
+1. Clona el repo o descarga los archivos.
+2. Instala dependencias:
    ```sh
    npm install
    ```
@@ -25,21 +34,32 @@ Esta aplicación web te permite llevar el seguimiento de los regalos y la amista
    ```sh
    npm start
    ```
-4. Abre `index.html` en tu navegador.
+4. Abre `index.html` en tu navegador favorito.
 
-## Estructura del proyecto
+---
 
-- `index.html`: Página principal.
-- `style.css`: Estilos visuales.
-- `script.js`: Lógica de la aplicación.
-- `villagers.json`: Datos de aldeanos y sus regalos.
-- `recipes.json`: Recetas y sus ingredientes.
-- `package.json`: Configuración y dependencias.
+## 🗂️ Estructura
 
-## Licencia
+- `index.html` — Página principal.
+- `style.css` — Estilos visuales.
+- `script.js` — Lógica de la app.
+- `villagers.json` — Datos de aldeanos y regalos.
+- `recipes.json` — Recetas e ingredientes.
+- `package.json` — Configuración y dependencias.
+
+---
+
+## 📢 Enlace de despliegue
+
+Accede a la app online:  
+[https://stardervalleyregalos.netlify.app/](https://stardervalleyregalos.netlify.app/)
+
+---
+
+## 📝 Licencia
 
 MIT © 2025 Cintia Losada
 
 ---
 
-¡Disfruta organizando tus regalos en
+¡Disfruta organizando tus regalos y hazte amigo de todos

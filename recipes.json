@@ -1,5 +1,5 @@
 {
-    "salmon dinner": {
+    "salmon": {
         "name": "Salmon",
         "img": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Salmon_Dinner.png",
         "ingredients": [
@@ -8,7 +8,7 @@
             "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d1/Kale.png/36px-Kale.png"
         ]
     },
-    "breakfast complet": {
+    "desayuno completo": {
         "name": "Desayuno completo",
         "img": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Complete_Breakfast.png",
         "ingredients": [
@@ -19,7 +19,7 @@
             
         ]
     },
-    "Papas hash brown": {
+    "patatas fritas": {
         "name": "Patata fritas",
         "img": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Hashbrowns.png",
         "ingredients": [
