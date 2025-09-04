@@ -191,19 +191,27 @@ button:hover {
         box-sizing: border-box;
     }
 
-    tbody#villagersTable tr {
+      tbody#villagersTable tr {
         margin-bottom: 18px;
         box-shadow: 0 2px 8px rgba(0,0,0,0.08);
         border-radius: 10px;
         background: #fff3e6;
         padding: 10px 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Centra el contenido */
     }
 
-    tbody#villagersTable td {
-        text-align: left;
+     tbody#villagersTable td {
+        text-align: center; /* Centra el texto y elementos */
         padding: 8px 12px;
         border-bottom: none;
         position: relative;
+        width: 100%;
+    }
+
+    tbody#villagersTable td check {
+        display: flex;
     }
 
     thead {
@@ -222,10 +230,4 @@ button:hover {
         text-shadow: 1px 1px #b34047;
     }
 
-    /* Etiquetas para cada celda */
-    tbody#villagersTable td:nth-child(1)::before { content: "Nombre: "; font-weight: bold; }
-    tbody#villagersTable td:nth-child(2)::before { content: "Corazones: "; font-weight: bold; }
-    tbody#villagersTable td:nth-child(3)::before { content: "Regalo 1: "; font-weight: bold; }
-    tbody#villagersTable td:nth-child(4)::before { content: "Regalo 2: "; font-weight: bold; }
-    tbody#villagersTable td:nth-child(5)::before { content: "Mejores: "; font-weight: bold; }
 }
